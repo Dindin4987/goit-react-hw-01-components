@@ -1,5 +1,5 @@
 .statistics {
-    width: 250px;
+    width: 300px;
     margin: 0 auto;
     padding: 50px 20px;
 }
@@ -8,10 +8,11 @@
     text-transform: uppercase;
     text-align: center;
     color: #192431;
-    margin: 0 auto;
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: white;
+    font-size:x-large;
+    width: 100%;
 }
 
 .statList {
@@ -27,8 +28,10 @@
     margin: auto;
     margin-top: 0;
     text-align: center;
-
     width: 50px;
+    padding: 10px;
+    font-size: small;
+    color: aliceblue;
 }
 
 .label {

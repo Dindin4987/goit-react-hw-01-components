@@ -26,3 +26,9 @@
     composes: status;
     background-color: red;
 }
+
+.avatar {
+    border:rgba(46, 47, 66, 0.16) 1px solid;
+    padding: 20px;
+    border-radius: 10px;
+}
